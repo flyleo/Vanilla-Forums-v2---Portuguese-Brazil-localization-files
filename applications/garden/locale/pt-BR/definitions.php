@@ -111,7 +111,7 @@ $Definition['EmailStoryNotification'] = '%1$s
 Clique no link abaixo e experimente:
 %2$s
 
-Einen schönen Tag noch!';
+Tenha um bom dia!';
 
 //////////////////////////////
 // Dashboard Help Infos
