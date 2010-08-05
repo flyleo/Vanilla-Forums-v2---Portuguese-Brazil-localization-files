@@ -17,11 +17,11 @@ $Definition['It looks like you\'re new here. If you want to take part in the dis
 $Definition['Invitation Code'] = 'Código de convite';
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Eu concordo com os <a id="TermsOfService" class="Popup" target="terms" href="%s">termos de serviço</a>.';
 $Definition['Terms of Service'] = 'Termos de serviço';
-$Definition['ErrorBadInvitationCode'] = 'Erro de Código de Convite';
+$Definition['ErrorBadInvitationCode'] = 'Código de convite inválido';
 $Definition['Name Unavailable'] = 'Nome indisponível';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'O nome de usuário pode conter apenas letras, números e sublinhados.';
 $Definition['The name you entered is already in use by another member.'] = 'O nome que você forneceu já está em uso por outro membro.';
-$Definition['The email you entered in use by another member.'] = 'Este email já está em uso por membro.';
+$Definition['The email you entered in use by another member.'] = 'Este e-mail já está em uso por membro.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'O código inserido no reCAPTCHA estava incorreto. Por favor, tente novamente.';
 
 $Definition['Passwords don\'t match'] = 'As senhas não combinam';
@@ -63,9 +63,9 @@ $Definition['she'] = 'ela';
 $Definition['his'] = 'dele';
 $Definition['her'] = 'dela';
 $Definition['somebody'] = 'alguém';
-$Definition['wall'] = 'muro';
+$Definition['wall'] = 'mural';
 $Definition['at'] = 'em';
-$Definition['dot'] = 'dot';
+$Definition['dot'] = 'ponto';
 $Definition['Comment'] = 'Comentário';
 $Definition['Write a comment'] = 'Escrever um comentário';
 
@@ -73,15 +73,15 @@ $Definition['Write a comment'] = 'Escrever um comentário';
 // General
 $Definition['Discussions'] = 'Discussões';
 $Definition['Dashboard'] = 'Painel';
-$Definition['%s comment'] = '%s Comentário';
-$Definition['%s comments'] = '%s Comentários';
+$Definition['%s comment'] = '%s comentário';
+$Definition['%s comments'] = '%s comentários';
 $Definition['%s new'] = '%s novo(s)';
 $Definition['Most recent by %1$s %2$s'] = 'Mais recente por %1$s %2$s';
 $Definition['Announcement'] = 'Anúncio';
 $Definition['Announcements'] = 'Anúncios';
 
-$Definition['Inbox'] = 'Caixa de Entrada';
-$Definition['New Conversation'] = 'Nova Conversa';
+$Definition['Inbox'] = 'Caixa de entrada';
+$Definition['New Conversation'] = 'Nova conversa';
 $Definition['Conversations'] = 'Conversas';
 $Definition['%s message'] = '%s mensagem';
 $Definition['%s messages'] = '%s mensagens';
@@ -98,7 +98,7 @@ $Definition['Add Message'] = 'Adicionar Mensagem';
 $Definition['Send Message'] = 'Enviar Mensagem';
 $Definition['Confirm'] = 'Confirmar';
 $Definition['Are you sure you want to do that?'] = 'Você tem certeza que quer fazer isso?';
-$Definition['Okay'] = 'Okay';
+$Definition['Okay'] = 'Aceitar';
 $Definition['Cancel'] = 'Cancelar';
 
 $Definition['All Discussions'] = 'Todas as discussões';
@@ -107,19 +107,19 @@ $Definition['Start a New Discussion'] = 'Iniciar uma nova discussão';
 $Definition['New Discussion'] = 'Nova discussão';
 $Definition['My Discussions'] = 'Minhas discussões';
 
-$Definition['Add Comment'] = 'Adicionar Comentário';
+$Definition['Add Comment'] = 'Adicionar comentário';
 $Definition['Post Discussion'] = 'Postar discussão';
 $Definition['Post Comment'] = 'Postar comentário';
-$Definition['Save Draft'] = 'Salvar Rascunho';
+$Definition['Save Draft'] = 'Salvar rascunho';
 $Definition['Preview'] = 'Pre-visualizar';
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'Você postou %1$s vezes em %2$s segundos. O bloqueio de spam está ativo para a sua conta. Aguarde %3$s segundos antes de postar novamente.';
 $Definition['%1$s older comments'] = '%1$s comentários antigos';
 $Definition['%1$s more comments'] = '%1$s comentários a mais';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'Quer participar dessa discussão? Clique em um desses:';
-$Definition['In this Discussion'] = 'Nessa Discussão';
+$Definition['In this Discussion'] = 'Nessa discussão';
 
 $Definition['Announce'] = 'Anúnciar';
-$Definition['Unannounce'] = 'Remover dos Anúncios';
+$Definition['Unannounce'] = 'Remover dos anúncios';
 $Definition['Sink'] = 'Dar baixa';
 $Definition['Unsink'] = 'Dar alta';
 $Definition['Close'] = 'Fechar';
@@ -129,30 +129,30 @@ $Definition['Delete Discussion'] = 'Apagar discussão';
 $Definition['Dismiss'] = 'Dispensar';
 $Definition['Edit Comment'] = 'Editar comentário';
 
-$Definition['Discussion Title'] = 'Título da Discussão';
-$Definition['Edit Discussion'] = 'Editar Discussão';
+$Definition['Discussion Title'] = 'Título da discussão';
+$Definition['Edit Discussion'] = 'Editar discussão';
 $Definition['Announce this discussion'] = 'Anunciar essa discussão';
 $Definition['Close this discussion'] = 'Fechar essa discussão';
 $Definition['Sink this discussion'] = 'Dar baixa a essa discussão';
 
-$Definition['Permalink'] = 'Permalink';
+$Definition['Permalink'] = 'Ligação permanente';
 $Definition['This discussion has been closed.'] = 'Essa discussão foi encerrada.';
 $Definition['Back to Discussions'] = 'Voltar à discussão';
 
-$Definition['Howdy, Stranger!'] = 'Bem vindo, Estranho!';
+$Definition['Howdy, Stranger!'] = 'Bem vindo, estranho!';
 $Definition['No discussions were found.'] = 'Nenhuma discussão foi encontrada.';
 $Definition['Sign Out'] = 'Deslogar';
 $Definition['Hang on a sec while we sign you out.'] = 'Aguarde um segundo enquanto deslogamos você.';
 $Definition['Category'] = 'Categoria';
 $Definition['Categories'] = 'Categorias';
 
-$Definition['My Drafts'] = 'Meus Rascunhos';
-$Definition['My Bookmarks'] = 'Meus Favoritos';
+$Definition['My Drafts'] = 'Meus rascunhos';
+$Definition['My Bookmarks'] = 'Meus favoritos';
 $Definition['You do not have any drafts.'] = 'Você não possui nenhum rascunho.';
-$Definition['Bookmarked Discussions'] = 'Discussões Favoritas';
+$Definition['Bookmarked Discussions'] = 'Discussões favoritas';
 $Definition['You do not have any bookmarks.'] = 'Você não possui nenhum favorito.';
-$Definition['Bookmark'] = 'Adicionar Favorito';
-$Definition['Unbookmark'] = 'Remover Favorito';
+$Definition['Bookmark'] = 'Adicionar favorito';
+$Definition['Unbookmark'] = 'Remover favorito';
 
 ////////////////////////////////////
 // Profile
@@ -161,7 +161,7 @@ $Definition['Welcome to Vanilla!'] = 'Bem vindo ao Vanilla!';
 $Definition['Change My Picture'] = 'Mudar minha imagem';
 $Definition['Change Picture'] = 'Mudar imagem';
 $Definition['Select an image on your computer (2mb max)'] = 'Selecione uma imagem no seu computador (máx. 2MB).';
-$Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Au subir um arquivo você garante que tem o direito de distribuir essa imagem e que isso não viola os Termos de Serviço.';
+$Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Ao subir um arquivo você garante que tem o direito de distribuir essa imagem e que isso não viola os Termos de Serviço.';
 $Definition['Edit My Thumbnail'] = 'Editar minha miniatura';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Arraste e redimensione o quadrado abaixo para definir sua miniatura.';
 $Definition['Original'] = 'Original';
@@ -179,17 +179,17 @@ $Definition['Email'] = 'Email';
 $Definition['Allow other members to see your email?'] = 'Permitir que outros membros vejam seu email?';
 $Definition['Email visible to other users'] = 'Email visível para outros usuários';
 $Definition['Check all roles that apply to this user:'] = 'Marque todas as permissões que se aplicam a esse usuário:';
-$Definition['Password Options'] = 'Opções de Senha';
-$Definition['Reset Password'] = 'Resetar a Senha';
-$Definition['Reset password and send email notification to user'] = 'Resetar Senha e enviar email de notificação ao usuário';
+$Definition['Password Options'] = 'Opções de senha';
+$Definition['Reset Password'] = 'Resetar a senha';
+$Definition['Reset password and send email notification to user'] = 'Resetar senha e enviar email de notificação ao usuário';
 $Definition['Gender'] = 'Gênero';
 $Definition['Male'] = 'Masculino';
 $Definition['Female'] = 'Feminino';
 $Definition['Change My Password'] = 'Mudar minha senha';
-$Definition['Old Password'] = 'Senha Antiga';
-$Definition['New Password'] = 'Nova Senha';
-$Definition['Confirm Password'] = 'Confirmar Senha';
-$Definition['Change Password'] = 'Mudar Senha';
+$Definition['Old Password'] = 'Senha antiga';
+$Definition['New Password'] = 'Nova senha';
+$Definition['Confirm Password'] = 'Confirmar senha';
+$Definition['Change Password'] = 'Mudar senha';
 $Definition['Your old password was incorrect.'] = 'Sua senha antiga estava incorreta.';
 $Definition['Your password has been changed.'] = 'Sua senha foi alterada.';
 
@@ -201,24 +201,24 @@ $Definition['Sent To'] = 'Enviar para';
 $Definition['On'] = 'Em';
 $Definition['Status'] = 'Status';
 $Definition['Uninvite'] = 'Desconvidar';
-$Definition['Send Again'] = 'Enviar Novamente';
+$Definition['Send Again'] = 'Enviar novamente';
 $Definition['Pending'] = 'Pendente';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Você não pode remover um convite que já foi aceito.';
 $Definition['An invitation has already been sent to the email you entered.'] = 'Um convite já foi enviado ao email que você inseriu.';
 $Definition['The email you have entered is already related to an existing account.'] = 'O email que você entrou já está vinculado a uma conta existente.';
-$Definition['You do not have enough invitations left.'] = 'Você não tem mais convites suficientes.';
+$Definition['You do not have enough invitations left.'] = 'Você não tem mais convites disponíveis.';
 
 $Definition['My Preferences'] = 'Minhas preferências';
 $Definition['Email Notifications'] = 'Notificações por email';
-$Definition['Notify me when people write on my wall.'] = 'Notificar-me quando pessoas escreverem no meu muro.';
-$Definition['Notify me when people reply to my wall comments.'] = 'Notificar-me quando pessoas rsponderem comentários no meu muro';
+$Definition['Notify me when people write on my wall.'] = 'Notificar-me quando pessoas escreverem no meu mural.';
+$Definition['Notify me when people reply to my wall comments.'] = 'Notificar-me quando pessoas rsponderem comentários no meu mural';
 $Definition['Notify me of private messages.'] = 'Notificar-me sobre mensagens privadas.';
 $Definition['Notify me when I am added to private conversations.'] = 'Notificar-me quando for adicionado a conversas privadas.';
 $Definition['Notify me when people comment on my discussions.'] = 'Notificar-me quando pessoas comentarem minhas discussões.';
 $Definition['Notify me when people mention me in discussion titles.'] = 'Notificar quando alguém me mencionar em títulos de discussões.';
 $Definition['Notify me when people mention me in comments.'] = 'Notificar quando alguém me mencionar em comentários.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Notificar-me quando alguém comentar minhas discussões favoritas.';
-$Definition['Save Preferences'] = 'Gravar Preferências';
+$Definition['Save Preferences'] = 'Gravar preferências';
 $Definition['Your preferences have been saved.'] = 'Suas preferências foram gravadas.';
 $Definition['Your changes have been saved.'] = 'Suas mudanças foram gravadas.';
 $Definition['Your changes have been saved successfully.'] = 'Suas mudanças foram gravadas com sucesso.';
@@ -243,23 +243,23 @@ $Definition['Share'] = 'Compartilhar';
 $Definition['Reply'] = 'Responder';
 $Definition['Replies'] = 'Respostas';
 $Definition['Write a reply'] = 'Escrever uma resposta';
-$Definition['%s Reply'] = '%s Resposta';
-$Definition['%s Replies'] = '%s Respostas';
+$Definition['%s Reply'] = '%s resposta';
+$Definition['%s Replies'] = '%s respostas';
 $Definition['Show 1 more reply...'] = 'Mostrar mais uma resposta...';
 $Definition['Show %s more replies...'] = 'Mostrar %s respostas a mais...';
 $Definition['1$s replied to %4$s %8$s.'] = '%1$s respondeu a %4$s %8$s.';
 
 ////////////////////////////////////
 // Dashboard Users
-$Definition['Manage Users'] = 'Administrar Usuários';
-$Definition['Add User'] = 'Adicionar Usuário';
+$Definition['Manage Users'] = 'Administrar usuários';
+$Definition['Add User'] = 'Adicionar usuário';
 $Definition['%s user(s) found.'] = '%s usuário(s) encontrado(s).';
-$Definition['First Visit'] = 'Primeira Visita';
-$Definition['Last Visit'] = 'Última Visita';
+$Definition['First Visit'] = 'Primeira visita';
+$Definition['Last Visit'] = 'Última visita';
 $Definition['Options'] = 'Opções';
 $Definition['Edit'] = 'Editar';
-$Definition['Generate Password'] = 'Gerar Senha';
-$Definition['Reveal Password'] = 'Revelar Senha';
+$Definition['Generate Password'] = 'Gerar senha';
+$Definition['Reveal Password'] = 'Mostrar senha';
 
 // applications\garden\settings\structure.php - ab Line 35 - geht nicht
 $Definition[''] = '';
@@ -278,19 +278,19 @@ $Definition[''] = '';
 
 ////////////////////////////////////
 // System & Error Messages
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Aconteceu um erro fatal enquanto processava o pedido.<br />O servidor retornou a seguinte resposta: %s';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Aconteceu um erro fatal durante o processamento do seu pedido.<br />O servidor retornou a seguinte resposta: %s';
 $Definition['The invitation was sent successfully.'] = 'O convite foi enviado com sucesso.';
 $Definition['Your invitation has been sent.'] = 'Seu convite foi enviado.';
 $Definition['The invitation was removed successfully.'] = 'O convite foi removido com sucesso.';
-$Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Embora que o convite tenha sido criado com sucesso, houve falha no email. O servidor retornou a seguinte resposta: %s';
-$Definition['You must be authenticated in order to use this form.'] = 'Você precisa estar autenticado para poder utilizar esse form.';
+$Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Embora o convite tenha sido criado com sucesso, houve uma falha envio do email. O servidor retornou a seguinte resposta: %s';
+$Definition['You must be authenticated in order to use this form.'] = 'Você precisa estar autenticado para poder utilizar esse formulário.';
 
 ////////////////////////////////////
 // System E-Mail
-$Definition['[%s] Password Reset Request'] = '[%s] Requisição de Renovação de Senha';
+$Definition['[%s] Password Reset Request'] = '[%s] Requisição de renovação de senha';
 $Definition['[%s] Invitation'] = '[%s] Convite';
 $Definition['[%s] Welcome Aboard!'] = '[%s] Bem vindo!';
-$Definition['[%s] Password Reset'] = '[%s] Renovação de Password';
+$Definition['[%s] Password Reset'] = '[%s] Renovação de senha';
 
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Parece que você é novo por aqui. Se quiser participar, clique em um desses botões!';
 
