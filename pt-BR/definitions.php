@@ -158,7 +158,7 @@ $Definition['Back to Discussions'] = 'Voltar à discussão';
 
 $Definition['Howdy, Stranger!'] = 'Bem vindo, estranho!';
 $Definition['No discussions were found.'] = 'Nenhuma discussão foi encontrada.';
-$Definition['Sign Out'] = 'Deslogar';
+$Definition['Sign Out'] = 'Sair';
 $Definition['Hang on a sec while we sign you out.'] = 'Aguarde um segundo enquanto deslogamos você.';
 $Definition['Category'] = 'Categoria';
 $Definition['Categories'] = 'Categorias';
