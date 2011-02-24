@@ -117,4 +117,4 @@ $Definition['AddonProblems'] = '';
 $Definition['Date.DefaultFormat'] = '%d/%m/%Y';
 $Definition['Date.DefaultDayFormat'] = '%d/%m';
 $Definition['Date.DefaultYearFormat'] = '%m/%Y';
-$Definition['Date.DefaultTimeFormat'] = '%H:%i';
+$Definition['Date.DefaultTimeFormat'] = '%H:%M';
